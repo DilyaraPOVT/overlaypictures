@@ -24,7 +24,7 @@ def startRename(directory):
         i+=1
 
 
-#path = "C:\\Users\\galya\\PycharmProjects\\overlaypictures\\1k\\"
+
 
 def get_script_dir(follow_symlinks=True):
     if getattr(sys, 'frozen', False): # py2exe, PyInstaller, cx_Freeze
